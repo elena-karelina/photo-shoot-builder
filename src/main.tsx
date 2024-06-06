@@ -1,11 +1,12 @@
 import { createRoot } from "react-dom/client";
 
-import { RouterProvider } from "react-router-dom";
+// import { RouterProvider } from "react-router-dom";
 import "./index.css";
-import router from "./App";
+// import router from "./App";
 
 createRoot(document.getElementById("root")!).render(
   <>
-    <RouterProvider router={router} />
+    арарар
+    {/* <RouterProvider router={router} /> */}
   </>
 );
